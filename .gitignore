@@ -8,7 +8,6 @@ venv/
 .venv/
 env/
 .env/
-.spec/
 .env.*
 !.env.example
 
@@ -53,8 +52,8 @@ ehthumbs.db
 Desktop.ini
 
 # PyInstaller
+*.spec
 *.manifest
-*.spec.bak
 
 # Temporary files
 *.tmp
